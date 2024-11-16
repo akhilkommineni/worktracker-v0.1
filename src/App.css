@@ -1,0 +1,31 @@
+root{
+  padding:0px;
+  margin:0px;
+}
+
+html,body{
+  padding:0px;
+  margin:0px;
+  background-color: #cddc39ba;
+  height: 100vh;
+}
+.form-input{
+  display: flex;
+  justify-content: center;
+}
+.main-heading{
+  text-align: center;
+}
+.checklist-container-inner{
+  border-style: solid;
+  padding:5px;
+}
+.inp-block{
+  margin-right: 10px;
+}
+input{
+  display: block;
+}
+label{
+  display: block;
+}
